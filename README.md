@@ -1,2 +1,8 @@
 # konta-mundu
-Just another repository
+
+Hey Peeps!
+
+Ncr here, I just getting started here trying to understand how this work. I a beginner when it comes to coding.
+
+
+
